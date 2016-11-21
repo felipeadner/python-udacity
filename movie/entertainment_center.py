@@ -23,4 +23,5 @@ the_matrix_revolutions = media.Movie("The Matrix Revolutions",
 #the_matrix_revolutions.show_trailer()
 
 movies = [the_matrix, the_matrix_reloaded, the_matrix_revolutions]
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+print (media.Movie.VALID_RATINGS)
